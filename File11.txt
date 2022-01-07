@@ -1,12 +1,13 @@
 Hello World
 
-Change added for Login features !!
+Change 1. added for Login features !!
 
-Change Done by Team mate.
+Change 2. Done by Team mate.
 
-Change added for Login features !! !!
+Change 3. added for Login features !! !!
 
-Change for stach test for WI5 in progress.
+Change 4. for stach test for WI5 in progress.
 
-Change for WI6 on Local master to test normal.
+Change 5. for WI6 on Local master to test normal.
 
+Change 6. by team master for bug3.
