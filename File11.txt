@@ -11,3 +11,7 @@ Change 4. for stach test for WI5 in progress.
 Change 5. for WI6 on Local master to test normal.
 
 Change 6. by team master for bug3.
+
+Change 7. on Local master for WI7.
+
+
